@@ -1,6 +1,6 @@
 # Documents-analysis-and-clustering
--This app show similarities betweend documents, visualizes the distances between the docs and clusters them. 
-
+-This app shows similarities between documents, visualizes the distances between the docs, clusters them and displays repeating words in clusters.<br>
+-Example works on ~100 articles.
 -A frequent problem is errors in the installation of the somoclu library (the least errors are on Linux). <br>
 
 -The data folder is a folder for articles in the .json format and is the only one that must contain files before starting the application.<br>
